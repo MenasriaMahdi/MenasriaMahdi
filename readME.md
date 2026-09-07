@@ -26,28 +26,38 @@ Building a strong foundation in **TCP/IP, routing, switching, subnetting, and ne
 Breaking complex problems into clear, practical solutions and continuously improving the result.
 
 ---
+<h3>🛠️ Technologies</h3>
 
-### Technologies
+<p><b>Frontend</b></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs" />
+</p>
 
-**Frontend**
+<p><b>Backend</b></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python" />
+</p>
 
-`JavaScript` `TypeScript` `React` `Next.js`
+<p><b>Data</b></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
 
-**Backend**
+<p><b>DevOps & Infrastructure</b></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx" />
+</p>
 
-`Node.js` `Express` `PHP` `Python`
-
-**Databases & Data**
-
-`PostgreSQL` `MySQL` `MongoDB` `Redis`
-
-**DevOps & Infrastructure**
-
-`Docker` `Linux` `Git` `GitHub` `CI/CD` `Nginx`
-
-**Networking**
-
-`TCP/IP` `Routing` `Switching` `Subnetting` `Cisco` `CCNA`
+<p><b>Networking</b></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=cisco" />
+  <br/>
+  <code>TCP/IP</code>
+  <code>Routing</code>
+  <code>Switching</code>
+  <code>Subnetting</code>
+  <code>CCNA</code>
+</p>
 
 ---
 
