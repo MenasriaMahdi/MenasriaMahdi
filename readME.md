@@ -4,35 +4,38 @@
 
 I build **modern web applications and scalable backend systems**, with a strong focus on **architecture, infrastructure, problem-solving, and clean engineering**.
 
-I don't just focus on making things work, I think about **how they're designed, how they communicate, how they scale, and what happens when things go wrong.**
+I don't just focus on making things work — I think about **how they're designed, how they communicate, how they scale, and what happens when things go wrong.**
 
 ---
 
 ### What I Bring
 
-** System Design**
-Designing applications around **scalability, reliability, maintainability, security, and real-world constraints**.
+**System Design**
+Designing systems around **scalability, reliability, security, maintainability, and real-world constraints**.
 
-** Full-Stack Development**
-Turning ideas into complete products — from **interfaces and APIs to business logic, databases, and deployment**.
+**Full-Stack Development**
+Building complete products — from **interfaces and APIs to business logic, databases, and deployment**.
 
-** DevOps & Infrastructure**
-Working with **Docker, Linux, CI/CD, deployment, networking, and infrastructure** to bridge the gap between development and production.
+**DevOps & Infrastructure**
+Working with **Docker, Linux, CI/CD, deployment, and Nginx** to bridge the gap between development and production.
 
-** Networking**
-Building a solid foundation in **networking, TCP/IP, routing, switching, subnetting, and network infrastructure** through CCNA studies.
+**Networking**
+Building a strong foundation in **TCP/IP, routing, switching, subnetting, and network infrastructure** through CCNA studies.
 
-** Problem Solving**
+**Problem Solving**
 Breaking complex problems into clear, practical solutions and continuously improving the result.
 
 ---
 
 ### Technologies
 
-**Languages & Frameworks**
+**Frontend**
 
-`JavaScript` `TypeScript` `React` `Next.js` `Node.js` `Express`
-`PHP` `Python`
+`JavaScript` `TypeScript` `React` `Next.js`
+
+**Backend**
+
+`Node.js` `Express` `PHP` `Python`
 
 **Databases & Data**
 
@@ -54,6 +57,8 @@ Breaking complex problems into clear, practical solutions and continuously impro
 
 Projects focused not only on **what I built**, but also **why I built it that way**.
 
+You'll find practical implementations, architectural decisions, technical experiments, and lessons learned from building real systems.
+
 ---
 
 ### What I'm Exploring
@@ -69,6 +74,4 @@ I'm continuously expanding from **writing applications** to understanding the **
 **Portfolio:** YOUR_PORTFOLIO
 **Email:** [menasriamed00@gmail.com](mailto:menasriamed00@gmail.com)
 
-<p align="center">
-  <b>Build with purpose. Design for scale. 🚀</b>
-</p>
+**Build with purpose. Design for scale. Engineer for production. 🚀**
